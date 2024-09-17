@@ -89,7 +89,7 @@ nav ul li { box-sizing: border-box;  padding: 30px;}
 .styled-table th,
 .styled-table td {
     padding: 12px 15px;
-    line-height: 2;
+    line-height: 12px;
 }
 
 .styled-table tbody tr {
